@@ -1,17 +1,19 @@
-
 public class Numeros0a99 {
 
 	public static void main(String[] args) {
-		
-		for(int i = 0; i < 100; i++)
-		if(i <= 98)
-			{
-			System.out.print(i + ", " );
 			
-		}else {
-			System.out.println(i);
+			int num;
+			for(num = 0; num < 100; num++)
+			if(num <= 98)
+				{
+				System.out.print(num + ", " );
+				
+			}else {
+				System.out.println(num);
+			}
+			
 		}
 		
-	}
+		
 
-}
+	}
