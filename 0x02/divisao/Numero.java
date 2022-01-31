@@ -15,10 +15,11 @@ public static void dividir(int a, int b) {
 	       }
 	       
 	       finally {
-	    	   	   System.out.printf(a + " / " + b + " = " + resp + "\n");
+	    	   System.out.printf("%d / %d = %d\n", a, b, resp);
 	       }
 	       
 }
 
 
 }
+
