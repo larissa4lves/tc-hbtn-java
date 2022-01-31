@@ -15,7 +15,7 @@ public static void dividir(int a, int b) {
 	       }
 	       
 	       finally {
-	    	   	   System.out.println(a + " / " + b + " = " + resp);
+	    	   	   System.out.printf(a + " / " + b + " = " + resp + "\n");
 	       }
 	       
 }
