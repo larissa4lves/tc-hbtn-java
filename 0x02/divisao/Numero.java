@@ -9,7 +9,7 @@ public static void dividir(int a, int b) {
 	    	     resp = a/b;
 	    	     
 	       }
-	       catch(ArithmeticException exeption){
+	       catch(ArithmeticException exception){
 	    	   resp = 0;
 	    	   System.out.println("Nao eh posivel dividir por zero");
 	       }
