@@ -11,7 +11,7 @@ public static void dividir(int a, int b) {
 	       }
 	       catch(Exception ex){
 	    	   resp = 0;
-	    	   System.out.println("Nao eh posivel dividir por zero");
+	    	   System.out.println("Nao eh possivel dividir por zero");
 	       }
 	       
 	       finally {
