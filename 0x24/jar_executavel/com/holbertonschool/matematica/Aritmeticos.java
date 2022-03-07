@@ -1,4 +1,4 @@
-package jar_executavel.com.holbertonschool.matematica;
+package com.holbertonschool.matematica;
 
 public class Aritmeticos {
 

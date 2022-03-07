@@ -1,4 +1,4 @@
-package jar_executavel.com.holbertonschool.main;
+package com.holbertonschool.main;
 
 import com.holbertonschool.matematica.*;
 
